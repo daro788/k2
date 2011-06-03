@@ -7,3 +7,12 @@
 Odpowiedzi:
 ==============================================================================
 
+1. const float stala = 2.7182818
+	zmiennoprzecinkowa 
+
+2.
+ autor hello <hello@hello1> 
+
+git log --oneline 
+
+git show [hash odpowiedzialny za zmiane]
